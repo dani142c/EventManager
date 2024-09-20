@@ -1,0 +1,96 @@
+minigames:
+  tag:
+    required-players: 3
+    max-players: 20
+    countdown-seconds: 30
+    lobby-spawn:
+      world: 'world'
+      x: -317.492
+      y: 64
+      z: -161.431
+      yaw: 1
+      pitch: 1
+    arenas:
+      0:
+        world: 'world'
+        x: -302.556
+        y: 64
+        z: -148.273
+        yaw: 1
+        pitch: 1
+  spleef:
+    required-players: 3
+    max-players: 20
+    countdown-seconds: 30
+    lobby-spawn:
+      world: 'world'
+      x: -317.492
+      y: 64
+      z: -161.431
+      yaw: 1
+      pitch: 1
+    arenas:
+      0:
+        world: 'world'
+        x: -302.556
+        y: 64
+        z: -148.273
+        yaw: 1
+        pitch: 1
+  sumo:
+    required-players: 3
+    max-players: 20
+    countdown-seconds: 30
+    lobby-spawn:
+      world: 'world'
+      x: -317.492
+      y: 64
+      z: -161.431
+      yaw: 1
+      pitch: 1
+    arenas:
+      0:
+        world: 'world'
+        x: -302.556
+        y: 64
+        z: -148.273
+        yaw: 1
+        pitch: 1
+  tnt-run:
+    required-players: 3
+    max-players: 20
+    countdown-seconds: 30
+    lobby-spawn:
+      world: 'world'
+      x: -317.492
+      y: 64
+      z: -161.431
+      yaw: 1
+      pitch: 1
+    arenas:
+      0:
+        world: 'world'
+        x: -302.556
+        y: 64
+        z: -148.273
+        yaw: 1
+        pitch: 1
+  pvp-arena:
+    required-players: 3
+    max-players: 20
+    countdown-seconds: 30
+    lobby-spawn:
+      world: 'world'
+      x: -317.492
+      y: 64
+      z: -161.431
+      yaw: 1
+      pitch: 1
+    arenas:
+      0:
+        world: 'world'
+        x: -302.556
+        y: 64
+        z: -148.273
+        yaw: 1
+        pitch: 1

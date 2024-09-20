@@ -1,0 +1,4 @@
+name: EventManager
+version: '1.0-SNAPSHOT'
+main: com.badekarret.eventManager.EManager
+api-version: '1.21'
